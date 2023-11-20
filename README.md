@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+about+making+the+world+a+better+place|One+line+of+code+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+about+making+the+world+a+better+place+One+line+of+code+at+a+time)](https://git.io/typing-svg)
 
