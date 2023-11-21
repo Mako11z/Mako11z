@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Isaiah!
 
 <!--
 **Mako11z/Mako11z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passonite+about+making+the+world+a+better+place;One+line+of+code+at+a+time;&width=800)](https://git.io/typing-svg)
+
+I'm a full-time dedicated and results-driven computer science student at Texas State University graduating in Spring 2024, I am passionate about leveraging my technical skills to tackle real-world challenges and drive innovation. Eager to learn and grow, I want to make a meaningful impact.
+
+- 📫 How to reach me: Heres me email! Please reach out! isaiah12gage@gmail.com
